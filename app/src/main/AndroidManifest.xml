@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ExpenseManager">
-        <activity android:name=".Calender_activity"></activity>
+        <activity android:name=".screen1"></activity>
+        <activity android:name=".Calender_activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
